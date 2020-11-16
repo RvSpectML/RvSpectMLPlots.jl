@@ -23,7 +23,7 @@ StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
 [compat]
 CSV = "0.7"
 ColorSchemes = "3"
-DataFrames = "0.21"
+DataFrames = "0.21, 0.22"
 EchelleInstruments = "0.1"
 FITSIO = "0.16"
 Plots = "1.6"
